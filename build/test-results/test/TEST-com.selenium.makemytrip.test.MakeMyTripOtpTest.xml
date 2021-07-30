@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.selenium.makemytrip.test.MakeMyTripOtpTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-25T12:07:49" hostname="arjun-HP-Laptop-15-bs0xx" time="12.833">
+  <properties/>
+  <testcase name="login_to_application_with_otp" classname="com.selenium.makemytrip.test.MakeMyTripOtpTest" time="12.833"/>
+  <system-out><![CDATA[ 640016 is the OTP to login into your MakeMyTrip account. We don't ask for your OTP/bank info. Don't share it with anyone. - MMT
+640016
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
